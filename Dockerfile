@@ -12,8 +12,8 @@ CMD node server.js
 
 # To build the docker container 
     # docker build -t cloudrunapp . 
-
+    
+    
 # To run the docker container 
     # docker run -it -p 8080:8080 cloudrunapp
 
-    
